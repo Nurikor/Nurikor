@@ -32,4 +32,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurikor&theme=github-dark-custom" alt="GitHub Activity Graph" width="100%" />
 </p>
 
-* 🌐 **[Nurikor.github.io](https://github.com/Nurikor/Nurikor.github.io)**
+* 🌐 **[Nurikor Personal site](https://Nurikor.dev)**
